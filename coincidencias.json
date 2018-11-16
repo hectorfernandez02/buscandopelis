@@ -1,0 +1,26 @@
+{"_id":{"$oid":"5bec54d4fb6fc005dcd591f0"},"name":"comedia","type":"busqueda_genero","regular_exp":"([c][o][m][e][d][i][a])","id_genre":28,"title":"Peliculas de Comedia"}
+{"_id":{"$oid":"5bec55bcfb6fc005dcd592dd"},"name":"2018","type":"busqueda_anio","regular_exp":"([2][0][1][8])","id_year":2018}
+{"_id":{"$oid":"5bed8a5be7179a56e211173d"},"name":"Aventura","type":"busqueda_genero","regular_exp":"([a][v][e][n][t][u][r][a])","id_genre":12,"title":"Peliculas de Aventura"}
+{"_id":{"$oid":"5bed8fd9e7179a56e21119a9"},"id_year":2017,"name":"2017","type":"busqueda_anio","regular_exp":"([2][0][1][7])"}
+{"_id":{"$oid":"5bef00a1fb6fc0561ffa4d76"},"regular_exp":"([a][c][c][i]([o]*){1}[n])","id_genre":18,"title":"Acción","name":"accion","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef00cffb6fc0561ffa4d94"},"id_genre":16,"regular_exp":"([a][n][i][m][a][c][i][o][n])","title":"Animación","name":"animacion","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef00e1fb6fc0561ffa4dad"},"id_genre":80,"regular_exp":"([c][r][i][m][e][n])","title":"Crimen","name":"crimen","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef00f3fb6fc0561ffa4db9"},"id_genre":99,"regular_exp":"([d][o][c][u][m][e][n][t][a][l])","title":"Documental","name":"documental","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef0103fb6fc0561ffa4dbc"},"id_genre":18,"regular_exp":"([d][r][a][m][a])","title":"Drama","name":"drama","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef0110fb6fc0561ffa4dc9"},"id_genre":10751,"regular_exp":"([f][a][m][i][l][i][a])","title":"Familia","name":"familia","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef0120fb6fc0561ffa4ddc"},"id_genre":14,"regular_exp":"([f][a][n][t][a][s][i][a])","title":"Fantasía","name":"fantasia","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef012ffb6fc0561ffa4de6"},"id_genre":36,"regular_exp":"([h][i][s][t][o][r][i][a])","title":"Historia","name":"historia","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef0140fb6fc0561ffa4df5"},"id_genre":27,"regular_exp":"([t][e][r][r][o][r])","title":"Terror","name":"terror","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef014cfb6fc0561ffa4df8"},"id_genre":10402,"regular_exp":"([m][u][s][i][c][a])","title":"Música","name":"musica","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef015bfb6fc0561ffa4dff"},"id_genre":9648,"regular_exp":"([m][i][s][t][r][i][o])","title":"Misterio","name":"misterio","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef0169fb6fc0561ffa4e0d"},"id_genre":10749,"regular_exp":"([r][o][m][a][n][c][e])","title":"Romance","name":"romance","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef018dfb6fc0561ffa4e25"},"id_genre":878,"name":"cienciaficcion","title":"Ciencia Ficción","type":"busqueda_genero","regular_exp":"([c][i][e][n][c][i][a])"}
+{"_id":{"$oid":"5bef01b4fb6fc0561ffa4e62"},"id_genre":10770,"regular_exp":"([p][e][l][i][c][u][l][a][][d][e][][t][v])","title":"Peliculas de Tv","name":"peliculasdetv","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef01c2fb6fc0561ffa4e83"},"id_genre":10770,"regular_exp":"([t][v])","title":"Peliculas de Tv","name":"peliculasdetv","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef01d1fb6fc0561ffa4e89"},"id_genre":53,"regular_exp":"([s][u][s][p][e][n][s])","title":"Suspenso","name":"suspenso","type":"busqueda_genero"}
+{"_id":{"$oid":"5bef01e3fb6fc0561ffa4f00"},"id_genre":10752,"regular_exp":"([b]([e]*){1}[l][i][c][a])","title":"Bélica","name":"belica"}
+{"_id":{"$oid":"5bef0206fb6fc0561ffa4f2b"},"id_genre":37,"regular_exp":"([w][e][s][t][e][r][n])","title":"Western","name":"westen"}
+{"_id":{"$oid":"5bef0217fb6fc0561ffa4f43"},"id_genre":37,"regular_exp":"([o][e][s][t][e])","title":"Oeste","name":"westen"}
+{"_id":{"$oid":"5bef06bafb6fc0561ffa5476"},"name":"2016","type":"busqueda_anio","regular_exp":"([2][0][1][6])","id_year":2016}
+{"_id":{"$oid":"5bef06d0fb6fc0561ffa5488"},"name":"2015","type":"busqueda_anio","regular_exp":"([2][0][1][5])","id_year":2015}
+{"_id":{"$oid":"5bef109afb6fc0561ffa5dc1"},"id_genre":878,"name":"cienciaficcion","title":"Ciencia Ficción","type":"busqueda_genero","regular_exp":"([f][i][c][c][i][o][n])"}
